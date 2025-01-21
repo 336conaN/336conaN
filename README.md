@@ -1,1 +1,1 @@
-![alt text](https://github.com/336conaN/336conaN/blob/main/assets/banner.png?raw=true)
+![alt text](https://raw.githubusercontent.com/336conaN/336conaN/refs/heads/main/assets/banner.png)
